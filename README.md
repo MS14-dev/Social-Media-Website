@@ -1,6 +1,6 @@
 # Social-Media-Website
 
-basic functionality
+Basic Functionality
 
 All users must  register in the system
 Could have to upload images 
